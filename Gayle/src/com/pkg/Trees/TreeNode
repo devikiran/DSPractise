@@ -1,4 +1,4 @@
-package com.pkg.dp.Trees;
+package com.pkg.Trees;
 
 public class TreeNode{
 int value;
