@@ -3,8 +3,6 @@ package com.pkg.dp;
 import java.util.Stack;
 
 public class Tower {
-
-	
 	
 		int index;
 		Stack<Integer> disks;
