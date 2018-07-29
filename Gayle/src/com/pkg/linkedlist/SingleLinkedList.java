@@ -249,9 +249,9 @@ public class SingleLinkedList implements List<Integer> {
 		s.add(20);
 
 		s.printall();
-		//s.reverseInBlocks(s.head, 3);
+		s.reverseInBlocks(s.head, 3);
 		
-		s.remove(new Integer(17));
+		//s.remove(new Integer(17));
 		
 		System.out.println("----------------");
 		

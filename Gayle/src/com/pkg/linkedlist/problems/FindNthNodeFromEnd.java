@@ -11,7 +11,7 @@ import java.util.LinkedList;
  */
 
 public class FindNthNodeFromEnd {
-
+Object ii;
 	public Integer findNtheNode(int n, LinkedList<Integer> plist) {
 		Iterator slowIterator = plist.iterator();
 		Iterator fastIterator = plist.iterator();
